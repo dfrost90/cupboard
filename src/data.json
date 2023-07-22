@@ -1,0 +1,47 @@
+[
+  {
+    "title": "WHAT A CHAT",
+    "image": "/whatachat.png",
+    "link": "https://whatachat2000.web.app/"
+  },
+  {
+    "title": "CODENAMES GAME",
+    "image": "/codenames.png",
+    "link": "https://codenames-9af41.web.app/"
+  },
+  {
+    "title": "DEVLIB",
+    "image": "/devlib.png",
+    "link": "https://devlib-2091a.web.app/"
+  },
+  {
+    "title": "HONEYCOMB",
+    "image": "/honeycomb.png",
+    "link": "https://honeycomb-ada13.web.app/"
+  },
+  {
+    "title": "Github user browser",
+    "image": "/github-user-browser.png",
+    "link": "https://elaborate-shortbread-c9e866.netlify.app/"
+  },
+  {
+    "title": "Custom store",
+    "image": "/customstore.png",
+    "link": "https://react-comfy-store-tutorial.netlify.app/"
+  },
+  {
+    "title": "Backroads example",
+    "image": "/backroads.png",
+    "link": "https://backroads-app-tutorial-baa678.netlify.app/"
+  },
+  {
+    "title": "Cocktail DB",
+    "image": "/cocktail-db.png",
+    "link": "https://sensational-halva-3f7905.netlify.app/"
+  },
+  {
+    "title": "TODOIST clone",
+    "image": "/todoist-clone.png",
+    "link": "https://todoist-tut-22be2.web.app/"
+  }
+]
